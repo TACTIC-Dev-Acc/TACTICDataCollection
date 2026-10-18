@@ -3,7 +3,7 @@ Data collection stage for the Skyrim mod TACTIC, which is currently being develo
 
 The source code is provided for legal and clarity reasons.
 
-An example of the data the mod collect can be found [Here](https://github.com/CharalamposGeorgiadis/TacticDataCollection/blob/master/CSVExample.csv)
+An example of the data the mod collect can be found [Here](https://github.com/TACTIC-Dev-Acc/TACTICDataCollection/blob/main/CSVExample.csv)
 
 # How to Install the Mod
 1. Make sure you have **Skyrim Special Edition** or **Skyrim Anniversary Edition**
