@@ -1,0 +1,13 @@
+{
+  "name": "thesismod-upload-server",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Receives CombatData.csv uploads and stores them in an R2 bucket.",
+  "scripts": {
+    "deploy": "wrangler deploy",
+    "dev": "wrangler dev"
+  },
+  "devDependencies": {
+    "wrangler": "^3"
+  }
+}

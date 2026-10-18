@@ -1,0 +1,11 @@
+{
+  "name": "thesismod-upload-server",
+  "main": "src/index.js",
+  "compatibility_date": "2026-09-11",
+  "r2_buckets": [
+    {
+      "binding": "COMBAT_DATA_BUCKET",
+      "bucket_name": "thesismod-combat-data"
+    }
+  ]
+}

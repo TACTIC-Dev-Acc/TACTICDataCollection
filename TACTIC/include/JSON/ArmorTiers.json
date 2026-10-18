@@ -1,0 +1,33 @@
+{
+	"Forsworn": "very low",
+	"Fur": "very low",
+	"Hide": "very low",
+
+	"Ancient Nord": "low",
+	"Banded Iron": "low",
+	"Iron": "low",
+	"Leather": "low",
+	"Studded": "low",
+	"Vampire": "low",
+
+	"Bonemold": "medium",
+	"Chitin": "medium",
+	"Scaled": "medium",
+	"Steel": "medium",
+
+	"Dwarven": "medium",
+	"Elven": "high",
+	"Elven Gilded": "high",
+	"Falmer Hardened": "high",
+	"Falmer Heavy": "high",
+	"Glass": "high",
+	"Nordic": "high",
+	"Orcish": "high",
+	"Steel Plate": "high",
+
+	"Daedric": "very high",
+	"Dragonplate": "very high",
+	"Dragonscale": "very high",
+	"Ebony": "very high",
+	"Stalhrim": "very high"
+}

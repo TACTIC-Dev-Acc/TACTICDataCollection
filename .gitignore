@@ -1,0 +1,35 @@
+# This file specifies files / folders which will be ignored by git.
+#
+# Patterns with a slash are anchored to this file's folder, so the project lives in TACTIC/ and
+# every such pattern is prefixed with **/ to match at any depth.
+#
+# If you want to add one of these files to git, either remove the matching line from this
+# file or force add the file/folder into git using `git -f add [path]`
+
+# IDE / text editor profile files
+.idea
+.vs
+**/.vscode/settings.json
+
+# Possible C++ build output directories and files
+out
+build
+cmake-build*
+*.dll
+*.pdb
+
+# Skyrim archive files
+*.bsa
+
+# upload-server (Cloudflare Worker) build/local-secret artifacts
+**/upload-server/node_modules
+**/upload-server/.wrangler
+**/upload-server/.upload-key.local.txt
+
+# Real upload credentials. include/JSON/UploadSettings.json (the placeholder template) stays
+# tracked; this one has the live key and must never be committed.
+**/include/JSON/UploadSettings.local.json
+
+# Safety net for anything else named like a local secret
+*.local.json
+*.local.txt

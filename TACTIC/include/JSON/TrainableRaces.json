@@ -1,0 +1,39 @@
+{
+    "ArgonianRace": true,
+    "ArgonianRaceVampire": true,
+
+    "BretonRace": true,
+    "BretonRaceVampire": true,
+
+    "DarkElfRace": true,
+    "DarkElfRaceVampire": true,
+
+    "DLC1NordRace": true,
+
+    "DremoraRace": true,
+
+    "ElderRace": true,
+    "ElderRaceVampire": true,
+
+    "HighElfRace": true,
+    "HighElfRaceVampire": true,
+
+    "ImperialRace": true,
+    "ImperialRaceVampire": true,
+
+    "KhajiitRace": true,
+    "KhajiitRaceVampire": true,
+
+    "NordRace": true,
+    "NordRaceAstrid": true,
+    "NordRaceVampire": true,
+
+    "OrcRace": true,
+    "OrcRaceVampire": true,
+
+    "RedguardRace": true,
+    "RedguardRaceVampire": true,
+
+    "WoodElfRace": true,
+    "WoodElfRaceVampire": true
+}

@@ -1,0 +1,59 @@
+{
+    "ArgonianRace": true,
+    "ArgonianRaceVampire": true,
+
+    "BretonRace": true,
+    "BretonRaceVampire": true,
+
+    "DarkElfRace": true,
+    "DarkElfRaceVampire": true,
+
+    "DLC01SoulCairnBonemanRace": true,
+
+    "DLC1BlackSkeletonRace": true,
+    "DLC1NordRace": true,
+    "DLC1SoulCairnSkeletonArmorRace": true,
+    "DLC1SoulCairnSkeletonNecroRace": true,
+
+    "DLC2AshSpawnRace": true,
+    "DLC2HulkingDraugrRace": true,
+
+    "DraugrMagicRace": true,
+    "DraugrRace": true,
+
+    "DremoraRace": true,
+
+    "ElderRace": true,
+    "ElderRaceVampire": true,
+
+    "FalmerRace": true,
+
+    "HighElfRace": true,
+    "HighElfRaceVampire": true,
+
+    "ImperialRace": true,
+    "ImperialRaceVampire": true,
+
+    "KhajiitRace": true,
+    "KhajiitRaceVampire": true,
+
+    "NordRace": true,
+    "NordRaceAstrid": true,
+    "NordRaceVampire": true,
+
+    "OrcRace": true,
+    "OrcRaceVampire": true,
+
+    "RedguardRace": true,
+    "RedguardRaceVampire": true,
+
+    "RigidSkeletonRace": true,
+
+    "SkeletonArmorRace": true,
+    "SkeletonNecroPriestRace": true,
+    "SkeletonNecroRace": true,
+    "SkeletonRace": true,
+
+    "WoodElfRace": true,
+    "WoodElfRaceVampire": true
+}
