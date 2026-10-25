@@ -3,29 +3,21 @@ Data collection stage for the Skyrim mod TACTIC, which is currently being develo
 
 The source code is provided for legal and clarity reasons.
 
-An example of the data the mod collect can be found [Here](https://github.com/TACTIC-Dev-Acc/TACTICDataCollection/blob/main/CSVExample.csv)
+An example of the data the mod collects can be found [Here](https://github.com/TACTIC-Dev-Acc/TACTICDataCollection/blob/main/CSVExample.csv)
 
 # How to Install the Mod
-1. Make sure you have **Skyrim Special Edition** or **Skyrim Anniversary Edition**
-2. Downgrade Skyrim:
-   1. Go into your main Skyrim directory (e.g. SteamLibrary\steamapps\common\Skyrim Special Edition)
-   2. Right-click on **SkyrimSE.exe** and click on **Properties**
-   3. Go into **Details** and check **File Version**. If it is **1.6.1170.0**, move to **Step 3**. Otherwise continue to step 2.4
-   4. Download [**Reliquary**](https://www.nexusmods.com/site/mods/2188?tab=files)
-   5. Open **Reliquary**, click on Skyrim and on the menu on the right click on version **1.6.1170.0**. Then proceed with the downgrade.
-   6. Press **Win+r**, type **%localappdata%** and press **Enter**
-   7. Go inside the **Skyrim Special Edition** folder and delete **ContentCatalog.txt**, if it exists
-3. **ESSENTIAL MODS:**
+1. Make sure you have **Skyrim Special Edition** or **Skyrim Anniversary Edition** **1.7.104.0** or **1.6.1170.0**
+2. **ESSENTIAL MODS:**
    1. **WON'T RUN WITHOUT:**
-      1. [SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/30379?tab=files): Make sure you download the one that is compatible with **Skyrim Special Edition 1.6.1170**
-      2. [Address Library](https://www.nexusmods.com/skyrimspecialedition/mods/32444?tab=files&category=archived): Download the one named **Address Library - All in one (all game versions)**
+      1. [SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/30379?tab=files): Make sure you download the one that is compatible with your Skyrim version
+      2. [Address Library](https://www.nexusmods.com/skyrimspecialedition/mods/32444?tab=files): Make sure you download the one that is compatible with your Skyrim version
    2. **WILL MESS UP DATA COLLECTION WITHOUT:**
       1. [Fnar Combat - Draugr Don't Shout](https://www.nexusmods.com/skyrimspecialedition/mods/88535?tab=files)
       2. [Disable Kill Cam And Kill Moves](https://www.nexusmods.com/skyrimspecialedition/mods/111190?tab=files)
       3. [No Racial Abilities (No Racial Powers)](https://www.nexusmods.com/skyrimspecialedition/mods/135411?tab=files)
    3. **RECOMMENDED:**
       1. [Sleep to Level Up](https://www.nexusmods.com/skyrimspecialedition/mods/32357?tab=files): If you decide not to use this, please **DO NOT** level-up during combat, since it creates unrealistic combat scenarios for NPCs.
-5. Go to [Releases](https://github.com/TACTIC-Dev-Acc/TACTICDataCollection/releases/tag/1.0) and download **TACTIC.zip**
+3. Go to [Releases](https://github.com/TACTIC-Dev-Acc/TACTICDataCollection/releases/tag/1.0) and download **TACTIC.zip**
 4. Open your Mod Manager (e.g. [Vortex](https://www.nexusmods.com/vortex)), click on **Install from File** and select **TACTIC.zip**
 
 # Notes:
