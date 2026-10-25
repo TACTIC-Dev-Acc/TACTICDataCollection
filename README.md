@@ -17,7 +17,7 @@ An example of the data the mod collects can be found [Here](https://github.com/T
       3. [No Racial Abilities (No Racial Powers)](https://www.nexusmods.com/skyrimspecialedition/mods/135411?tab=files)
    3. **RECOMMENDED:**
       1. [Sleep to Level Up](https://www.nexusmods.com/skyrimspecialedition/mods/32357?tab=files): If you decide not to use this, please **DO NOT** level-up during combat, since it creates unrealistic combat scenarios for NPCs.
-3. Go to [Releases](https://github.com/TACTIC-Dev-Acc/TACTICDataCollection/releases/tag/1.0) and download **TACTIC.zip**
+3. Go to [Releases](https://github.com/TACTIC-Dev-Acc/TACTICDataCollection/releases) and download **TACTIC.zip** for your Skyrim version
 4. Open your Mod Manager (e.g. [Vortex](https://www.nexusmods.com/vortex)), click on **Install from File** and select **TACTIC.zip**
 
 # Notes:
