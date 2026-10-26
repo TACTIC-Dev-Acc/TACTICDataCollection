@@ -6,7 +6,10 @@ The source code is provided for legal and clarity reasons.
 An example of the data the mod collects can be found [Here](https://github.com/TACTIC-Dev-Acc/TACTICDataCollection/blob/main/CSVExample.csv)
 
 # How to Install the Mod
-1. Make sure you have **Skyrim Special Edition** or **Skyrim Anniversary Edition** **1.7.104.0** or **1.6.1170.0**
+1. Make sure you have **Skyrim Special Edition** or **Skyrim Anniversary Edition** **1.7.104.0** or **1.6.1170.0**:
+   1. Go into your main Skyrim directory (e.g. SteamLibrary\steamapps\common\Skyrim Special Edition)
+   2. Right-click on **SkyrimSE.exe** and click on **Properties**
+   3. Go into **Details** and check **File Version**
 2. **ESSENTIAL MODS:**
    1. **WON'T RUN WITHOUT:**
       1. [SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/30379?tab=files): Make sure you download the one that is compatible with your Skyrim version
